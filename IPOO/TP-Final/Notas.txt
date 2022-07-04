@@ -1,0 +1,48 @@
+Clase EMPRESA:
+    INSERTAR: okey
+    MODIFICAR: okey
+    ELIMINAR: okey
+    LISTAR: okey
+    Opciones para tablas vacias: okey
+
+Clase VIAJE: 
+    INSERTAR: okey
+    MODIFICAR: 
+        Destino: okey
+        CantMax: okey
+            Cambiar a cantidad menor de los que hay: okey
+        Empresa: okey
+        Responsable: okey
+        Importe: okey
+        TipoAsiento: okey
+        Ida y vuelta: okey
+    ELIMINAR: okey
+    LISTAR: okey
+    LISTAR PASAJEROS: okey
+    Opciones para tablas vacias: okey
+
+
+Clase PASAJERO: 
+Agregado que no deje insertar si no hay viaje disponible
+    INSERTAR: okey
+    MODIFICAR: 
+        Nombre: okey
+        Apellido: okey
+        Telefono: okey
+        Viaje: okey
+    ELIMINAR: okey
+    LISTAR: okey
+
+Clase RESPONSABLE: 
+Agregado validacion de que no deje borrar un Responsable que este a cargo de un viaje.
+    INSERTAR: okey
+    MODIFICAR: okey
+    LISTAR: okey
+    ELIMINAR: okey
+
+
+CORRECCIONES DURANTE EXPOSICION: 
+Guarda los OBJETOS no los ID: si
+No se puede repetir el viaje: Insertar: si. Modificar: si
+Cambiar listar para usar buscar en vez de crear el objeto:  si
+Verificacion de borrar viaje con pasajeros: si
