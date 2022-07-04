@@ -1,0 +1,75 @@
+DATOS DEL ALUMNO:
+------------------
+APELLIDO:
+NOMBRE:
+LEGAJO:
+----------------------------------------------------
+
+COPIE AQUI CONSULTAS QUE RESPONDEN A CADA CONSIGNA:
+
+
+1.Listar Apellido y Nombre de los técnicos del taller. Ordenar por Apellido.
+Respuesta:
+
+
+
+2.Listar los datos de los Clientes que pertenezcan a la ciudad de “Centenario” ó a la ciudad de “Cipolletti”.
+Respuesta:
+
+
+
+
+3.Listar los datos de los vehículos (patente, marca, modelo y año) junto con el dni, Apellido y Nombre de su dueño. Ordenar el listado Año del vehículo y por Marca.
+Respuesta:
+
+
+
+
+4.Listar los datos de los repuestos y la cantidad utilizada en la reparación con clave primaria “13”
+Respuesta:
+
+
+
+
+5.Listar la cantidad de reparaciones realizadas por cada tecnico. Se debe mostrar Apellido del tecnico y cantidad de reparaciones que realizó. (Usar Alias de tablas y de columnas).
+Respuesta:
+
+
+
+
+6.Mostrar la suma de los importes de las reparaciones realizadas por el tecnico de legajo “3214”. (Usar Alias de Columna)
+Respuesta:
+
+
+
+
+
+7.Liste los datos de las reparaciones realizadas a los vehículos cuya patente comience con “I” (i mayúscula) junto con la descripción de los repuestos que se utilizaron. (utilizar LIKE) (Usar Alias de tablas y de columnas).
+Respuesta:
+
+
+
+
+8.Actualizar el teléfono del cliente con DNI “26810320” a “299-15485214”.
+Respuesta:
+
+
+
+
+9.Actualizar stock a “10” y precio a “51.20” del repuesto de código “65433”.
+Respuesta:
+
+
+
+10.Eliminar el repuesto de código “6465”.
+Respuesta:
+
+
+
+
+11.Inserte un nuevo Cliente (3025987,’Morales’,’Mario’,’248-1546325’,’Sarmiento 1458’,’Neuquén’), e inserte su vehiculo (‘DSE-957’,’Chevrolet’,’Corsa Classic’,’2011’).
+Respuesta:
+
+
+
+
